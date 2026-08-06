@@ -6,6 +6,46 @@
 
 </div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshuDX/DivyanshuDX/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyanshuDX/DivyanshuDX/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/DivyanshuDX/DivyanshuDX/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<hr>
+
+<details>
+<summary>💻 <b>Click to open terminal</b></summary>
+<br>
+
+```bash
+divyanshu@backend:~$ whoami
+Software Engineer · HCLTech · Java & Spring Boot · 2.5+ yrs
+
+divyanshu@backend:~$ cat achievements.log
+✔ Resolved 15+ production issues via root cause analysis
+✔ Cut API response time ~25% through query & logic optimization
+✔ Cut query execution time 20-30% via indexing & profiling
+✔ Winner / Top Performer — multiple hackathons
+✔ Qualified Google Code Jam 2022, Round 1 (8675 pts)
+✔ Completed Google's "30 Days of Google Cloud" program
+
+divyanshu@backend:~$ cat currently_learning.txt
+Microservices Architecture
+System Design
+Generative AI (GenAI)
+
+divyanshu@backend:~$ echo $WHY_I_BUILD
+"I build things because I want to understand them,
+ not because a course told me to."
+
+divyanshu@backend:~$ _
+```
+
+</details>
+
 <hr>
 
 ## 👨‍💻 About Me
